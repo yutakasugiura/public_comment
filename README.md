@@ -1,4 +1,4 @@
-# Public Comment Repository @yusugiura
+# Public Comment Repository @yutaka_sugiura
  
  ## All
 
