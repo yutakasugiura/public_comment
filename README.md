@@ -22,5 +22,4 @@
  ## Who?
 
   - [GET] https://the-shashi.com/api/yusugiura.json
-  - https://github.com/yutakasugiura
 
