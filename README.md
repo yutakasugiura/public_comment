@@ -1,13 +1,12 @@
-# 公開文章を管理するレポジトリ
+# Public Comment Repository @yusugiura
  
- ## 一覧
+ ## All
 
  | published | status | media | title | url |
  | -- | -- | -- | -- | -- |
  | 2022-02 | writing | note.com | コードが読めないと、経営判断できない時代になった | null | 
  
- ## 使い方
+ ## Usage ?
 
- - ここにまとめていく
- - 一旦、パブリックレポジトリにしておく
+ - Save articles in this public repoaitory.
 
