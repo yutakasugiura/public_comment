@@ -2,7 +2,7 @@
  
  ## 一覧
 
- | 公開日 | ステータス | 対象媒体 | タイトル | URL |
+ | published | status | media | title | url |
  | -- | -- | -- | -- | -- |
  | 2022-02 | writing | note.com | コードが読めないと、経営判断できない時代になった | null | 
  
