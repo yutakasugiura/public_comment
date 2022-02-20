@@ -4,7 +4,7 @@
 
  | published | status | media | title | file |
  | -- | -- | -- | -- | -- |
- | 2022-02-25? | writing | note.com #日経commemo | コードが読めないと、経営判断できない時代になった | 20220220_note.md | 
+ | 2022-02-25? | review | note.com #日経commemo | コードが読めないと、経営判断できない時代になった | 20220220_note.md | 
  
  ## Usage
 
