@@ -4,7 +4,7 @@
 
  | published | status | media | title | file |
  | -- | -- | -- | -- | -- |
- | 2022-02-25? | review | note.com #日経commemo | コードを読める人が経営判断すべき理由 | 20220220_note.md | 
+ | 2022-02-25? | review | note.com | コードを読める人が経営判断すべき理由 | 20220220_note.md | 
  
  ## Usage
 
