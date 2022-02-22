@@ -19,7 +19,7 @@
   
  - 2022-02-21
 
- ## Author Info
+ ## Author
 
   - [GET] https://the-shashi.com/api/yusugiura.json
 
