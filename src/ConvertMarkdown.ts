@@ -27,17 +27,14 @@ class ConvertMarkdown {
     }
 
     private createHTMLFile(html: string) {
-    try {
-        fs.writeFileSync(this.outputFilePath, html);
-        console.log('complete: Formatted')
-    } catch(e) {
-        console.log(e);
-    }
-    }
-
-    
+        try {
+            fs.writeFileSync(this.outputFilePath, html);
+            console.log('complete: Formatted')
+        } catch(e) {
+            console.log(e);
+        }
+    }   
 }
 
 const convertMarkdown = new ConvertMarkdown();
 convertMarkdown.execute();
-
