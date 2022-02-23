@@ -33,7 +33,7 @@ npm run md
 
  - [note.com](https://note.com) do not support specific HTML tags.
 
-| tag | [note.com](https://note.com) is supported | for markdown | memo |
+| tag | Is [note.com](https://note.com) supported? | markdown | memo |
 | -- | -- | -- | -- |
 | `<h1>` | **no** | `# string` | `<h1>` tag is used in article title. |
 | `<h2>` | yes | `## string` | |
