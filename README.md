@@ -31,7 +31,7 @@ npm run md
  - Support tag is referenced in suported_tags.json.
 
 
-| tag | note is supported | for markdown | memo |
+| tag | [note.com](https://note.com) is supported | for markdown | memo |
 | -- | -- | -- | -- |
 | `<h1>` | no | `#` | `<h1>` tag is used in article title. |
 | `<h2>` | yes | `##` | |
@@ -42,9 +42,9 @@ npm run md
 | `<strong>` | no | `**string**` | |
 | `<blockquote>` | yes | " ``` " | |
 | `<ul> & <li>` | yes | `-` | |
-| `<img src="" alt="">` | yes | `<img src="FILE_PATH" alt="EXPLAIN">` | |
+| `<img src="" alt="">` | yes | | |
 | `<p>` | yes | `<p>` | |
-| `<pre>` | yes | null | |
+| `<pre>` | yes | | |
 
  ## Publishing Account
 
