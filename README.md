@@ -18,6 +18,8 @@
  - You can convert from markdown to HTML, because of note do not support md.
  - When you vote [note.com](https://note.com), execute command `npm run md` by node.js with typescript.
 
+<img src="statics/img/execute_example.png">
+
 ```
 // environment settings
 npm run install
