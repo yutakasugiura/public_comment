@@ -15,7 +15,7 @@
 
  ## Convert from markdown to HTML for posting [note.com](https://note.com)
 
- - You can convert from markdown to HTML, because of note do not support md.
+ - You can convert from markdown to HTML, because [note.com](https://note.com) do not support md.
  - When you vote [note.com](https://note.com), execute command `npm run md` by node.js with typescript.
 
 <img src="statics/img/execute_example.png">
