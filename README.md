@@ -14,7 +14,7 @@
  ## Convert from markdown to HTML
 
  - You can convert from markdown to HTML, because of note do not support md.
- - When you vote note, execute command `npm run md` by node.js with typescript.
+ - When you vote [note.com](https://note.com), execute command `npm run md` by node.js with typescript.
 
 ```
 // environment settings
