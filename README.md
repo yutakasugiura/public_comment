@@ -13,7 +13,7 @@
  1) Save articles in this public repository by markdown.
  2) You can convert markdown to HTML which is supported [note.com](https://note.com).
 
- ## Convert from markdown to HTML
+ ## Convert from markdown to HTML for posting [note.com](https://note.com)
 
  - You can convert from markdown to HTML, because of note do not support md.
  - When you vote [note.com](https://note.com), execute command `npm run md` by node.js with typescript.
