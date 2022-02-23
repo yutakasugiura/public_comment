@@ -16,7 +16,7 @@
  ## Convert from markdown to HTML for posting [note.com](https://note.com)
 
  - You can convert from markdown to HTML, because [note.com](https://note.com) do not support md.
- - When you vote [note.com](https://note.com), execute command `npm run md` by node.js with typescript.
+ - When you post [note.com](https://note.com), execute command `npm run md` by node.js with typescript.
 
 <img src="statics/img/execute_example.png">
 
@@ -31,7 +31,7 @@ npm run md
 
 ## Notification
 
- - [note.com](https://note.com) do not supported specific HTML tags.
+ - [note.com](https://note.com) do not support specific HTML tags.
 
 | tag | [note.com](https://note.com) is supported | for markdown | memo |
 | -- | -- | -- | -- |
