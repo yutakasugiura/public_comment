@@ -9,12 +9,12 @@
  ## Usage
 
  - Save articles in this public repository.
- - Use only master branch, because of private writing.
+ - You can convert markdown to HTML, supported [note.com].
 
  ## Convert from markdown to HTML
 
  - You can convert from markdown to HTML, because of note do not support md.
- - When you vote [note.com](https://note.com), execute command `npm run md` by node.js with typescript.
+ - When you vote [note.com], execute command `npm run md` by node.js with typescript.
 
 ```
 // environment settings
@@ -32,12 +32,12 @@ npm run md
 
 | tag | note is supported | for markdown | memo |
 | -- | -- | -- | -- |
-| <h1> | no | # | ONLY use by <title>|
-| <h2> | no | ## | |
-| <h3> | no | ### | |
-| <b> | no | **string** | |
-| <strong> | no | **string** | |
-| <ul> & <li> | yes | - | |
+| `<h1>` | no | # | ONLY use by <title>|
+| `<h2>` | no | ## | |
+| `<h3>` | no | ### | |
+| `<b>` | no | **string** | |
+| `<strong>` | no | **string** | |
+| `<ul> & <li>` | yes | - | |
 
  ## Publishing Account
 
