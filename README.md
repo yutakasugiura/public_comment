@@ -35,17 +35,17 @@ npm run md
 
 | tag | [note.com](https://note.com) is supported | for markdown | memo |
 | -- | -- | -- | -- |
-| `<h1>` | no | `#` | `<h1>` tag is used in article title. |
-| `<h2>` | yes | `##` | |
-| `<h3>` | yes | `###` | |
-| `<br>` | yes | `\n` | |
-| `<a>` | yes | `[string](URL)` | |
+| `<h1>` | no | `# string` | `<h1>` tag is used in article title. |
+| `<h2>` | yes | `## string` | |
+| `<h3>` | yes | `### string` | |
+| `<br>` | yes | `\n` or `<br>` | |
+| `<a>` | yes | `[string](URL: string)` | |
 | `<b>` | yes | `**string**` | |
 | `<strong>` | no | `**string**` | |
-| `<blockquote>` | yes | " ``` " | |
-| `<ul> & <li>` | yes | `-` | |
+| `<blockquote>` | yes | `>string` | |
+| `<ul> & <li>` | yes | `- string` | |
 | `<img src="" alt="">` | yes | | |
-| `<p>` | yes | `<p>` | |
+| `<p>` | yes | `<p>` | string |
 | `<pre>` | yes | | |
 
  ## Created
