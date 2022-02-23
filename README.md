@@ -36,9 +36,15 @@ npm run md
 | `<h1>` | no | `#` | `<h1>` tag is used in article title. |
 | `<h2>` | yes | `##` | |
 | `<h3>` | yes | `###` | |
+| `<br>` | yes | `\n` | |
+| `<a>` | yes | `[string](URL)` | |
 | `<b>` | yes | `**string**` | |
 | `<strong>` | no | `**string**` | |
+| `<blockquote>` | yes | " ``` " | |
 | `<ul> & <li>` | yes | `-` | |
+| `<img src="" alt="">` | yes | `<img src="FILE_PATH" alt="EXPLAIN">` | |
+| `<p>` | yes | `<p>` | |
+| `<pre>` | yes | null | |
 
  ## Publishing Account
 
@@ -49,6 +55,6 @@ npm run md
  - 2022-02-21
 
  ## Author
-
-  - [GET] https://the-shashi.com/api/yusugiura.json
+ - @yusugiura 
+ - [GET] https://the-shashi.com/api/yusugiura.json
 
