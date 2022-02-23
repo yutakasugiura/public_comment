@@ -8,8 +8,8 @@
  
  ## Usage
 
- - Save articles in this public repository.
- - You can convert markdown to HTML, supported [note.com].
+ - 1) Save articles in this public repository.
+ - 2) You can convert markdown to HTML, supported [note.com](https://note.com).
 
  ## Convert from markdown to HTML
 
@@ -20,24 +20,25 @@
 // environment settings
 npm run install
 
-// execute command @see articles/*.md
+// execute command
+// @convert all articles/*.md files.
 npm run md
 ```
 
 ## Notification
 
- - [note.com](https://note.com) do not supported specific HTML tags.
+ - [note.com] do not supported specific HTML tags.
  - Support tag is referenced in suported_tags.json.
 
 
 | tag | note is supported | for markdown | memo |
 | -- | -- | -- | -- |
-| `<h1>` | no | # | ONLY use by <title>|
-| `<h2>` | no | ## | |
-| `<h3>` | no | ### | |
-| `<b>` | no | **string** | |
-| `<strong>` | no | **string** | |
-| `<ul> & <li>` | yes | - | |
+| `<h1>` | no | `#` | `<h1>` tag is used in article title. |
+| `<h2>` | yes | `##` | |
+| `<h3>` | yes | `###` | |
+| `<b>` | yes | `**string**` | |
+| `<strong>` | no | `**string**` | |
+| `<ul> & <li>` | yes | `-` | |
 
  ## Publishing Account
 
