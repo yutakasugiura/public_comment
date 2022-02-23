@@ -4,7 +4,7 @@
 
  | published | status | media | title | file |
  | -- | -- | -- | -- | -- |
- | 2022-02-24 11:00 | reserved | note.com | コードを読める人が経営判断すべき理由 | [20220220_note.md](/articles/20220220_note.md) | 
+ | 2022-02-24 | reserved | note | コードを読める人が経営判断すべき理由 | [20220220_note.md](/articles/20220220_note.md) | 
  
  ## Usage
 
@@ -13,7 +13,8 @@
 
  ## Convert from markdown to HTML
 
- - You can convert from markdown to HTML, because of note do not support md. Before you vote note, execute command by node.js with typescript.
+ - You can convert from markdown to HTML, because of note do not support md.
+ - When you vote note, execute command `npm run md` by node.js with typescript.
 
 ```
 // environment settings
