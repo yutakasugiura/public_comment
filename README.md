@@ -24,6 +24,20 @@ npm run install
 npm run md
 ```
 
+## Notification
+
+ - [note.com](https://note.com) do not supported specific HTML tags.
+ - Support tag is referenced in suported_tags.json.
+
+
+| tag | note is supported | for markdown | memo |
+| -- | -- | -- | -- |
+| <h1> | no | # | ONLY use by <title>|
+| <h2> | no | ## | |
+| <h3> | no | ### | |
+| <b> | no | **string** | |
+| <strong> | no | **string** | |
+| <ul> & <li> | yes | - | |
 
  ## Publishing Account
 
