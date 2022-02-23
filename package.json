@@ -4,7 +4,7 @@
   "description": "To Convert markdown to html.",
   "main": "index.js",
   "scripts": {
-    "md": "npx ts-node src/ConvertMarkdown.ts"
+    "md": "npx ts-node src/ConvertMarkdown.ts 2> logs/error.log"
   },
   "repository": {
     "type": "git",
