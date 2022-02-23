@@ -1,6 +1,6 @@
 # Public Comment Repository @yutaka_sugiura
  
- ## All
+ ## Published Articles
 
  | published | status | media | title | file |
  | -- | -- | -- | -- | -- |
