@@ -45,7 +45,7 @@ npm run md
 | `<blockquote>` | yes | `>string` | |
 | `<ul> & <li>` | yes | `- string` | |
 | `<img src="" alt="">` | yes | | |
-| `<p>` | yes | `<p>` | string |
+| `<p>` | yes | `string` | |
 | `<pre>` | yes | | |
 
  ## Created
