@@ -3,20 +3,39 @@ import fs from "fs";
 
 class ConvertMarkdown {
 
+    inputFilePath: string = "articles/sample.md";
+    outputFilePath: string = "articles/formatted/sample.html";
+
     constructor() {
         console.log('waiwai');
     }
 
-    execute() {
+    public execute() {
         console.log('test');
-        const markdown = '# タイトル１\n' +
-        '## タイトル２\n' +
-        '- 箇条書き **強調** \n' 
-         console.log(marked(markdown));
 
-        const html: string = marked(markdown);
-        console.log(html);
+        fs.readFile(this.inputFilePath, { encoding: "utf8" }, (err, markdownContent) => {
+            if (err) {
+                console.error("FATAL ERROR: this file is not supported");
+            }
+            const html = this.parseHTML(markdownContent);
+            this.createHTMLFile(html);
+        });
     }
+
+    private parseHTML(markdown: string): string {
+        return marked(markdown);
+    }
+
+    private createHTMLFile(html: string) {
+    try {
+        fs.writeFileSync(this.outputFilePath, html);
+        console.log('complete: Formatted')
+    } catch(e) {
+        console.log(e);
+    }
+    }
+
+    
 }
 
 const convertMarkdown = new ConvertMarkdown();
