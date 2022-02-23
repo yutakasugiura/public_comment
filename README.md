@@ -1,4 +1,4 @@
-# Public Comment Repository @yutaka_sugiura
+# Public Comment @yusugiura
  
  ## Published Articles
 
@@ -10,8 +10,8 @@
  
  ## Usage
 
- - 1) Save articles in this public repository.
- - 2) You can convert markdown to HTML, supported [note.com](https://note.com).
+ - 1) Save articles in this public repository by markdown.
+ - 2) You can convert markdown to HTML which is supported [note.com](https://note.com).
 
  ## Convert from markdown to HTML
 
