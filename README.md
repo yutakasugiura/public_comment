@@ -32,8 +32,6 @@ npm run md
 ## Notification
 
  - [note.com](https://note.com) do not supported specific HTML tags.
- - Support tag is referenced in suported_tags.json.
-
 
 | tag | [note.com](https://note.com) is supported | for markdown | memo |
 | -- | -- | -- | -- |
