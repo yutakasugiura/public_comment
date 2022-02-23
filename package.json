@@ -1,0 +1,26 @@
+{
+  "name": "public_comment",
+  "version": "1.0.0",
+  "description": "To Convert markdown to html.",
+  "main": "index.js",
+  "scripts": {
+    "md": "npx ts-node src/ConvertMarkdown.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yutakasugiura/public_comment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yutakasugiura/public_comment/issues"
+  },
+  "homepage": "https://github.com/yutakasugiura/public_comment#readme",
+  "dependencies": {
+    "@types/marked": "^4.0.2",
+    "marked": "^4.0.12",
+    "ts-node": "^10.5.0",
+    "typescript": "^4.5.5"
+  }
+}
