@@ -11,10 +11,10 @@ class ConvertMarkdown {
     extentionHTML: string = '.html';
 
     /** waiwai comment */
-    commentStart: string = "マークダウン変換が始まるよ! わいわい"
-    commentError: string = "おかしいなぁ。マークダウンの変換に失敗したよ"
-    commentSuccess: string = "HTMLに出力したよ!"
-    commentEnd: string = "マークダウン変換が終わったよ! おつかれさまでした!"
+    commentStart: string = "マークダウン変換が始まるよ! わいわい";
+    commentError: string = "おかしいなぁ。マークダウンの変換に失敗したよ";
+    commentSuccess: string = "HTMLに出力したよ!";
+    commentEnd: string = "マークダウン変換が終わったよ! おつかれさまでした!";
 
     /** color */
     promptBlue: string = "\u001b[34m";
