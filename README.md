@@ -4,7 +4,7 @@
 
  | published | status | media | title | file |
  | -- | -- | -- | -- | -- |
- | 2022-02-26 | reserved | note | [経営層はコードが読めますか？]() | [20220220_note.md](/articles/20220220_note.md) | 
+ | 2022-02-28 | reserved | note | [経営層はコードが読めますか？]() | [20220220_note.md](/articles/20220220_note.md) | 
 
  account: https://note.com/yutaka_sugiura
  
